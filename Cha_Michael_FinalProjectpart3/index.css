@@ -1,0 +1,232 @@
+@charset "utf-8";
+.container .row .col-lg-6.head1 {
+	background-image: url(images/part3slice_02.gif);
+	width: 250px;
+	height: 175px;
+	border-bottom: medium solid #E8E8E8;
+	background-repeat: no-repeat;
+}
+
+.container .row .col-lg-6.head2 {
+	background-image: url(images/part3slice_03.jpg);
+	height: 175px;
+	width: 700px;
+	background-position: center center;
+}
+.container .row .col-lg-6.aside2 {
+	background-image: url(images/part3slice_07.gif);
+	width: 700px;
+	height: 502px;
+}
+.col-lg-4.aside .row .col-lg-12.asiderow1 {
+	background-image: url(images/part3slice_05.gif);
+	width: 253px;
+	height: 150px;
+	margin-bottom: 25px;
+	margin-top: 2px;
+	margin-left: -2px;
+}
+
+.container .row.row2 {
+	margin-top: 30px;
+}
+.container .row.row1 {
+	margin-top: 10px;
+}
+.col-lg-4.aside .row .col-lg-12.asiderow2 {
+	background-image: url(images/part3slice_05.gif);
+	width: 253px;
+	height: 150px;
+	margin-bottom: 25px;
+	margin-left: -2px;
+}
+.col-lg-4.aside .row .col-lg-12.asiderow3 {
+	background-image: url(images/part3slice_05.gif);
+	width: 253px;
+	height: 150px;
+	margin-left: -2px;
+}
+body {
+	width: 950px;
+}
+
+.container .row .col-lg-12.footer {
+	background-image: url(images/part3slice_14.gif);
+	height: 50px;
+	margin-top: 30px;
+}
+.row .col-lg-12.asiderow1 .asiderow1 {
+	margin-top: 50px;
+	color: #FFFFFF;
+	text-align: right;
+	font-size: x-large;
+}
+.row .col-lg-12.asiderow2 h2.asiderow2  {
+	text-align: right;
+	margin-top: 55px;
+	font-size: x-large;
+	margin-left: px;
+	color: #FFFFFF;
+}
+.row .col-lg-12.asiderow3 .asiderow3 {
+	color: #FFFFFF;
+	text-align: right;
+	margin-top: 55px;
+	font-size: x-large;
+}
+.row .col-lg-12.footer .footer {
+	color: #FFFFFF;
+	font-size: large;
+}
+.nav.navbar-nav li a {
+	border-right: medium solid #FFFFFF;
+	color: #FFFFFF;
+}
+
+.row.row1 .col-lg-6.head2 #defaultNavbar1 {
+	margin-top: 10px;
+	float: right;
+	font-size: large;
+}
+
+
+
+.footer {
+}
+ul a     {
+	color: #FFFFFF;
+}
+a {
+	color: #FFFFFF;
+}
+.row .col-lg-12.asiderow1D  {
+	background-image: url(images/part3slice_05.gif);
+	width: 253px;
+	height: 502px;
+	margin-left: -2px;
+}
+.container .row.row2 .col-lg-6.aside2D {
+	width: 700px;
+	height: 502px;
+	background-image: url(images/017_3d_5000x2500_all-free-download.com.jpg);
+	background-position: center 0%;
+}
+p {
+	color: #FFFFFF;
+}
+.aside2Dev {
+	width: 700px;
+	height: 502px;
+	background-image: url(images/housingdevelopment1.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.container .row.row2 .col-lg-4.aside {
+	width: 250px;
+}
+
+
+.aside2S {
+	width: 700px;
+	height: 502px;
+	background-image: url(images/052_4128x2683_300dpi_all-free-download.com_22315690.jpg);
+}
+.col-md-4 .thumbnail img1 {
+	background-image: url(url);
+}
+
+.row .col-lg-12.asiderow1D .ul-dev.ul {
+	color: #FFFFFF;
+	margin-top: 40px;
+	margin-left: -40px;
+}
+.ul-dev.ul ul li {
+	list-style-type: none;
+}
+
+.col-lg-12.asiderow1D .ul-dev.ul .ul-dev1.ul {
+	margin-left: 40px;
+}
+
+
+.row .col-lg-12.asiderow1D .ul-des.ul {
+	margin-top: 90px;
+	margin-left: -40px;
+	color: #FFFFFF;
+}
+.ul-des.ul ul li {
+	list-style-type: none;
+}
+
+.aside2G {
+	width: 700px;
+	height: 502px;
+}
+.thumb1 {
+	width: 233px;
+	height: 250px;
+}
+
+.thumbpic1 {
+	margin-top: 30px;
+}
+.thumbpic2 {
+	margin-top: 30px;
+}
+.thumb2 {
+	width: 233px;
+	height: 250px;
+}
+
+.img1 {
+	background-position: center 0%;
+
+}
+.img2 {
+}
+.img3 {
+}
+.img4 {
+}
+.img5 {
+}
+.img6 {
+}
+.aside2C {
+	width: 700px;
+	height: 502px;
+}
+.row.row2 .col-lg-6.aside2C #form1 {
+	margin-top: 10px;
+	margin-bottom: 40px;
+	text-align: left;
+	vertical-align: text-top;
+}
+.row.row2 .col-lg-6.aside2C #submit {
+	margin-top: 30px;
+	margin-left: 0px;
+}
+
+
+.row.row2 .col-lg-6.aside2C #textfield2 {
+	width: 650px;
+	height: 250px;
+}
+.footercont {
+	color: #FFFFFF;
+}
+.container {
+	width: 950px;
+}
+.row .col-lg-12.asiderow1D .ul-des.ul {
+	margin-top: 20px;
+	list-style-type: none;
+}
+.col-lg-12.asiderow1D .ul-des.ul .ul-de21.ul {
+	margin-left: 20px;
+}
+h2 {
+	color: #FFFFFF;
+}
+.h2title {
+}
